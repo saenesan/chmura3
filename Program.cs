@@ -1,5 +1,7 @@
 using BestTeamAppFull.Data;
 using Microsoft.EntityFrameworkCore;
+using BestTeamApp.Services; // ← upewnij się, że to jest
+
 
 var builder = WebApplication.CreateBuilder(args);
 
