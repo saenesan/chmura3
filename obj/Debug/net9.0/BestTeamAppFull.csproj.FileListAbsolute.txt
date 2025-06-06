@@ -1,0 +1,8 @@
+C:\Users\loved\Downloads\BestTeamApp3\obj\Debug\net9.0\BestTeamAppFull.csproj.AssemblyReference.cache
+C:\Users\loved\Downloads\BestTeamApp3\obj\Debug\net9.0\BestTeamAppFull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loved\Downloads\BestTeamApp3\obj\Debug\net9.0\BestTeamAppFull.AssemblyInfoInputs.cache
+C:\Users\loved\Downloads\BestTeamApp3\obj\Debug\net9.0\BestTeamAppFull.AssemblyInfo.cs
+C:\Users\loved\Downloads\BestTeamApp3\obj\Debug\net9.0\BestTeamAppFull.csproj.CoreCompileInputs.cache
+C:\Users\loved\Downloads\BestTeamApp3\obj\Debug\net9.0\BestTeamAppFull.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\loved\Downloads\BestTeamApp3\obj\Debug\net9.0\BestTeamAppFull.RazorAssemblyInfo.cache
+C:\Users\loved\Downloads\BestTeamApp3\obj\Debug\net9.0\BestTeamAppFull.RazorAssemblyInfo.cs
